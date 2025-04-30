@@ -1,5 +1,8 @@
 ﻿# Default ignored files
 /shelf/
+.idea/
+.vs/
+.vs\Solution/
 /workspace.xml
 # Rider ignored files
 /modules.xml
