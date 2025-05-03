@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using WebApplication1.MappingConfig;
 
 namespace WebApplication1
 {
@@ -22,6 +23,7 @@ namespace WebApplication1
         {
             services.AddDataInfrastructure(Configuration);
             services.AddControllersWithViews();
+            services.AddAutoMapperConfiguration();
             services.AddRazorPages();
         }
 
