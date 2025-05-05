@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mrsil\\RiderProjects\\Solution1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{295089F9-F561-4EE3-95DF-657BC5DDE2AF}|CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj|c:\\users\\mrsil\\riderprojects\\solution1\\cleanarch.infra.data\\cleanarch.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{295089F9-F561-4EE3-95DF-657BC5DDE2AF}|CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj|solutionrelative:cleanarch.infra.data\\cleanarch.infra.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CleanArch.Infra.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\mrsil\\RiderProjects\\Solution1\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+              "RelativeDocumentMoniker": "CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+              "ToolTip": "C:\\Users\\mrsil\\RiderProjects\\Solution1\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+              "RelativeToolTip": "CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T19:06:48.469Z",
+              "EditorCaption": ""
             }
           ]
         }

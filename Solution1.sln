@@ -12,6 +12,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Application", "CleanArch.Application\CleanArch.Application.csproj", "{F9BBF451-876C-45A2-BE91-AB8785DF1F0B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.MVC", "CleanArch.MVC\CleanArch.MVC.csproj", "{D643411E-823C-4BC9-9DF3-F37DEED5BC4E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F9BBF451-876C-45A2-BE91-AB8785DF1F0B} = {F9BBF451-876C-45A2-BE91-AB8785DF1F0B}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
